@@ -16,23 +16,23 @@ This file contains formulas around the "date" functions.
   * Networkdays.intl
 
 * ## MATHEMATICAL & TRIGONOMETRIC FORMULAS
-  * Summing
-  * Subtotal
-  * Sumproduct
-  * Rounding
-  * Ceiling & Even
-  * Randbetween
-  * Int & Odd
-  * Abs
-  * Exponential & Factorial (Exp & Fact)
-  * GCD & LCM
-  * Mod & Quotient
-  * Power & Sign
-  * Floor
-  * Mode
-  * Forecast
-  * Sqrt & Sumsq
-  * Truncate
+ * Summing
+ * Subtotal
+ * Sumproduct
+ * Rounding
+ * Ceiling & Even
+ * Randbetween
+ * Int & Odd
+ * Abs
+ * Exponential & Factorial (Exp & Fact)
+ * GCD & LCM
+ * Mod & Quotient
+ * Power & Sign
+ * Floor
+ * Mode
+ * Forecast
+ * Sqrt & Sumsq
+ * Truncate
 
 * ## DATA VISUALIZATION
 Some of the data visualization tools used here include;
@@ -80,8 +80,8 @@ References and lookup functions work together to find and manipulate data within
   * Transpose
     
 * ## PIVOT TABLE
-  * Pivot tables
-  * Data visualization
+ * Pivot tables
+ * Data visualization
  
 * ## STATISTICAL FORMULAS.
 The statistical formulas here inlude; 
