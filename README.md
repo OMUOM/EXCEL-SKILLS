@@ -97,12 +97,12 @@ The statistical formulas here inlude;
   * QUARTILE
 
 * ## TEXT
-  * Exact
-  * Text To Columns
-  * Lower
-  * Upper
-  * Proper
-  * Trim
-  * Text
-  * Concatenate
-  * Substitute       
+ * Exact
+ * Text To Columns
+ * Lower
+ * Upper
+ * Proper
+ * Trim
+ * Text
+ * Concatenate
+ * Substitute       
