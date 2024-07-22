@@ -50,6 +50,19 @@ Some of the data visualization tools used here include;
   * Multiple line graph
   * Rader Chart
 
+* ## INFORMATION
+This file contains functions which deal mostly with the information part, they include;
+  * Cell
+  * Isblank
+  * Iserror
+  * Isnontext
+  * Istext
+  * Isnumber
+  * Info
+  * Iseven
+  * Isodd
+  * Islogical  
+
 * ## LOOKUPS AND REFERENCES
 References and lookup functions work together to find and manipulate data within your spreadsheets
   * Column & Columns
